@@ -117,5 +117,35 @@
     <ClCompile Include="declaretion_definition\duplicated_definition\Main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\logical_space\A.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\logical_space\B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\logical_space\Main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\variable_allocation\A.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\variable_allocation\B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\global_scope_variable_initailization\Main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\global_scope_variable_initailization\A.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\global_scope_variable_initailization\B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\local_scope_variable_initialization\Main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="declaretion_definition\storage_class\local_scope_variable_initialization\binary_size.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
